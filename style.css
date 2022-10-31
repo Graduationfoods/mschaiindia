@@ -62,6 +62,10 @@
 }
 
 
+.joinc{
+  padding: 20px;
+}
+
 * {
 	box-sizing: border-box;
 	padding: 0;
@@ -70,6 +74,14 @@
 
     p {
     text-align: center;}
+
+    .card-text{
+        font-family: 'Rokkitt', serif;
+    }
+
+    .fw-light{
+      font-family: 'Rokkitt', serif;
+    }
 
 body {
   background: rgba(16,176,26,1);
@@ -122,6 +134,12 @@ background: linear-gradient(180deg, rgba(255,255,255,1) 50%, rgba(16,176,26,1) 5
 
 .aiming{
   font-size: 23px;
+  font-family: 'Rokkitt', serif;
+}
+
+.community{
+  font-size: 23px;
+  text-align:left; 
   font-family: 'Rokkitt', serif;
 }
 
