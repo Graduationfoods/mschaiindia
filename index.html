@@ -12,11 +12,10 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Rokkitt:wght@700&display=swap" rel="stylesheet">
-  <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/cover/">
   <!-- Bootstrap core CSS -->
   <link rel="stylesheet" href="css/bootstrap.min.css">
   <link rel="stylesheet" href="css/style.css">
-  <style>
+  <!-- <style>
     .bd-placeholder-img {
       font-size: 1.125rem;
       text-anchor: middle;
@@ -30,44 +29,52 @@
         font-size: 3.5rem;
       }
     }
-  </style>
+  </style> -->
 
 </head>
 
 <body>
   <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
-    <header class="mb-auto">
-      <div class="textcentre">
-        <h3 class="float-md-start mb-0"> </h3>
-        <nav class="nav nav-masthead justify-content-center float-md-end">
-          <a class="nav-link active" aria-current="page" href="index.html">Home</a>
-          <a class="nav-link" href="developers.html">Developers</a>
-          <a class="nav-link" href="community.html">Community</a>
-          <a class="nav-link" href="contact.html">Contact</a>
-        </nav>
-      </div>
+    <header class="">
+      <nav class="nav navbar-expand-lg nav-masthead navbar-light">
+        <div class="container-fluid">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"
+            aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+            <div class="navbar-nav mx-auto">
+              <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+              <a class="nav-link" href="developers.html">Developers</a>
+              <a class="nav-link" href="community.html">Community</a>
+              <a class="nav-link" href="contact.html">Contact</a>
+            </div>
+          </div>
+        </div>
+      </nav>
     </header>
     <main class="px-3">
-      <p class="lead"> GRADUATION FOODS</p>
+      <p class="lead">GRADUATION FOODS</p>
       <p class="aiming">We aim to build the world's largest chai chain on blockchain.<br> We are on a mission to give
         the most divine chai, delicious food to our people and committed to save earth by reducing the usage of plastic.
       </p><br>
       <div class="row row-cols-1 row-cols-sm-2 g-3">
-        
-          <div class="col main-container">
-            <div class="poster-container">
-              <a href="#"><img class="img-fluid" src="images/gf.png" alt="GF" class="poster"></a>
-            </div>
-            <a href="mscwhitepaper.pdf" target="_blank" download="MSC Whitepaper">
+
+        <div class="col main-container">
+          <div class="poster-container">
+            <a href="#"><img class="img-fluid" src="images/gf.png" alt="GF" class="poster"></a>
+          </div>
+          <a href="mscwhitepaper.pdf" target="_blank" download="MSC Whitepaper">
             <div class="ticket-container">
               <div class="ticket__content">
                 <h4 class="ticket__movie-title"></h4>
                 <p class="ticket__current-price">Download Whitepaper</p>
                 <button class="ticket__buy-btn">Download</button>
               </div>
-            </div></a>
-          </div>
-        
+            </div>
+          </a>
+        </div>
+
         <div class="col main-container">
           <div class="poster-container">
             <a href="#"><img class="img-fluid" src="images/msc.png" alt="GF" class="poster"></a>
@@ -87,6 +94,10 @@
       <p class="text-black">All Rights Reserved. &copy; 2022 Graduation Foods. MS CHAI For INDIA 💚</p>
     </footer>
   </div>
+
+  <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script> -->
+  <script src="js/bootstrap.bundle.min.js"></script>
+
 </body>
 
 </html>
