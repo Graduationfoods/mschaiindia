@@ -47,20 +47,20 @@
 }
 .nav-masthead .nav-link:hover,
 .nav-masthead .nav-link:focus {
-  border-bottom-color: rgba(16,176,26,1);
+  border-bottom-color: rgba(255,255,255,1);
 }
 
 .nav-masthead .active {
-  border-bottom-color: rgba(16,176,26,1);
+  border-bottom-color: rgba(255,255,255,1);
 }
 .navbar-light .navbar-nav .nav-link{
 	color:rgba(16,176,26,0.8);
 }
 .navbar-light .navbar-nav .nav-link:hover{
-	color:rgba(16,176,26,1);
+	color:rgba(0,116,7);
 }
 .navbar-light .navbar-nav .nav-link.active{
-	color:rgba(16,176,26,1);
+	color:rgba(0,116,7);
 }
 
 @media (min-width: 992px){
@@ -99,7 +99,7 @@ body {
 	/* display: flex; */
 	height: 100%;
 }
-/* 
+/*
 .hero-container {
 	margin: auto;
 	display: flex;
