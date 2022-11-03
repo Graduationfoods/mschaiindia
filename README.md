@@ -1,4 +1,4 @@
-MS CHAI INDIA - The Chai Shop Aggregator
+MS CHAI INDIA
 The Chai Made with Science and Engineering
 
 1. Rich becoming Richer, Poor becoming Poorer.
@@ -10,5 +10,4 @@ Brief Solution for Problem 2. We & people around us using plastic/disposables/pa
 
 Introduction
 	Introducing MS CHAI INDIA - MSC (The Master science of chai) The chai made with science and Engineering. A branding aggregative partner for all tea shops or tea stall across India. We partner with small businesses tea shops & stalls who don’t have proper branding, who don’t have proper customer base, who don’t have good menu, who don’t have good taste, who don’t have proper equipment & who don’t have proper standard hygiene. We provide all of these to them to help them to grow their business. Once everything is setup in every area, marketing our brand is not a big deal to grow MS Chai India. Without any advertising or promotion, we can make easy marketing on our brand and products. Everybody can do business who have good techniques but only few can save the Earth & Nature by doing Eco-friendly business.
-
 We are green business. We don’t want to generate plastic waste to pollute environment. We are here to help nature & living creatures to be in better place.
