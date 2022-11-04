@@ -99,17 +99,9 @@ body {
 	/* display: flex; */
 	height: 100%;
 }
-/*
-.hero-container {
-	margin: auto;
-	display: flex;
-} */
 
 .main-container {
-	/* width: 270px; */
-	/* height: 540px; */
 	position: relative;
-	/* margin: 0 20px; */
 }
 
 .poster-container {
