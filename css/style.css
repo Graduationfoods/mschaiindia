@@ -127,8 +127,6 @@ body {
 	align-items: center;
 	border-radius: 5px;
 	position: relative;
-	/* position: absolute;
-	top: -20px; */
 }
 
 .text-black{
@@ -156,7 +154,6 @@ body {
 	align-items: center;
 	border-radius: 5px;
 	position: relative;
-	/* top: -20px; */
 }
 
 .main-container:hover .ticket-container {
